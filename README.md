@@ -19,7 +19,7 @@ npm install -g howtofixcli
 Or from the tarball attached to the latest release:
 
 ```sh
-npm install -g ./howtofixcli-0.3.0.tgz
+npm install -g ./howtofixcli-0.4.0.tgz
 ```
 
 Check it:
